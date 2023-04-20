@@ -9,8 +9,7 @@ export default function Headerbar() {
                 <Navbar.Brand href="#home">
                     <img
                         src="../images/airbnb-logo.png"
-                        height="30"
-                        className="d-inline-block align-top"
+                        className="h-[26px] d-inline-block align-top"
                         alt="Airbnb Logo"
                     />
                 </Navbar.Brand>

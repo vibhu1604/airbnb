@@ -18,7 +18,7 @@ function ProductParent() {
             {
                 id: 2,
                 avail: "Sold Out",
-                img: "../images/swimmer.png",
+                img: "../images/learn-weddingphoto.png",
                 rate: "5.0",
                 reviews: "6",
                 location: "USA",
@@ -28,7 +28,7 @@ function ProductParent() {
             {
                 id: 3,
                 avail: "Sold Out",
-                img: "../images/swimmer.png",
+                img: "../images/bicycle.png",
                 rate: "5.0",
                 reviews: "6",
                 location: "USA",
